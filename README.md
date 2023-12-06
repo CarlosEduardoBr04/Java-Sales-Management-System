@@ -1,5 +1,4 @@
 ## Java Sales Management System 🛒
-
 ### Project Overview 📚
 
 This Java project, organized into three packages (conexão, modelagem, and visualização), constitutes a Sales Management System. It provides functionalities for database connection, data modeling, and visualization.
